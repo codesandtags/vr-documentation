@@ -11,6 +11,7 @@
 
 | Description   | URL           | 
 | ------------- |:-------------:| 
+| Share and discover 3D Content | https://sketchfab.com/  |
 | Todo  | link | 
 
 ## Courses
@@ -23,16 +24,22 @@
 
 | Description   | URL           | 
 | ------------- |:-------------:| 
+| Show the matrix for current browses supporting webvr | https://webvr.rocks/ |
 | Todo  | link | 
 
 ## Articles
 
 | Description   | URL           | 
 | ------------- |:-------------:| 
+| 3 Reasons WebVR Is The Future of Virtual Reality  | https://uploadvr.com/3-reasons-webvr-future-virtual-reality/  |
 | Todo  | link | 
 
-## Projects
+## Projects / Software
 
 | Description   | URL           | 
 | ------------- |:-------------:| 
+| React VR | https://facebook.github.io/react-vr/ |
+| Build immersive web VR using Vizor | https://vizor.io/ |
+| glTF GL Transmission Format for 3D assets| https://github.com/KhronosGroup/glTF/tree/2.0 |
+| Added link to threejs page JavaScript 3D | https://threejs.org/ |
 | Todo  | link | 
