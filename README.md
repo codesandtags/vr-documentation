@@ -32,6 +32,7 @@
 | Description   | URL           | 
 | ------------- |:-------------:| 
 | 3 Reasons WebVR Is The Future of Virtual Reality  | https://uploadvr.com/3-reasons-webvr-future-virtual-reality/  |
+| VR 101  | https://www.cnet.com/special-reports/vr101/ | 
 | Todo  | link | 
 
 ## Projects / Software
@@ -42,4 +43,8 @@
 | Build immersive web VR using Vizor | https://vizor.io/ |
 | glTF GL Transmission Format for 3D assets| https://github.com/KhronosGroup/glTF/tree/2.0 |
 | Added link to threejs page JavaScript 3D | https://threejs.org/ |
+| Google Card Board  | https://developers.google.com/web/fundamentals/vr/ | 
+| Mozilla Web Vr  | https://mozvr.com/ | 
+| Framework to build Web Vr  | https://aframe.io/ | 
 | Todo  | link | 
+
