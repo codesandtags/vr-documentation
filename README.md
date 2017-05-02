@@ -7,7 +7,7 @@
 | ------------- |:-------------:| 
 | Sketchfab VR Trends Q2 2017 | https://www.producthunt.com/posts/sketchfab-vr-trends-q2-2017 | 
 
-## Comunities
+## Communities
 
 | Description   | URL           | 
 | ------------- |:-------------:| 
