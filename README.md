@@ -35,6 +35,13 @@
 | VR 101  | https://www.cnet.com/special-reports/vr101/ | 
 | Todo  | link | 
 
+## Videos
+
+| Description   | URL           | 
+| ------------- |:-------------:| 
+| Launching Successful VR and AR Games with Google | https://www.youtube.com/watch?v=FkoDrsstyYs | 
+| Todo  | link | 
+
 ## Projects / Software
 
 | Description   | URL           | 
